@@ -11,7 +11,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-list": "^0.8.15",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "react-scrollable-list": "^1.2.0",
     "scrollbooster": "^3.0.2",
     "typescript": "^3.9.7"
